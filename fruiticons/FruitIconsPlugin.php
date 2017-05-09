@@ -5,21 +5,21 @@ class FruitIconsPlugin extends BasePlugin
 {
     public function getName()
     {
-        return 'Icons';
+        return 'Icons Sprokets Fork';
     }
 
     public function getVersion()
     {
-        return '0.9.5';
+        return '1.0.0';
     }
 
     public function getDeveloper()
     {
-        return 'Fruit Studios';
+        return 'Sprokets';
     }
 
     public function getDeveloperUrl()
     {
-        return 'http://fruitstudios.co.uk';
+        return 'https://github.com/Sprokets/Icons';
     }
 }
